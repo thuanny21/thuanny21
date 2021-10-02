@@ -1,4 +1,4 @@
-# thuanny
+
 ## Olá! Eu sou a Thuanny
 
 <div align="center">
